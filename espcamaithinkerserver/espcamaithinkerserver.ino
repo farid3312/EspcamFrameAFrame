@@ -12,11 +12,11 @@
 #include "freertos/semphr.h"
 
 // ----------- CONFIGURACIÓN DE RED -------------
-const char* ssid     = "FARID C";
-const char* password = "12345678";
+const char* ssid     = "MiRed1234578";
+const char* password = "Tucontraseña123";
 
 // Dirección de tu servidor (Asegúrate que sea la IP actual de tu PC)
-const char* serverURL = "http://10.222.246.194:5000/video";
+const char* serverURL = "http://TuIp123:TuPuerto123/video";
 
 // ----------- PINES ESP32-CAM AI THINKER -----------
 #define PWDN_GPIO_NUM     32
